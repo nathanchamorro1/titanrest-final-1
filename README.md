@@ -1,6 +1,6 @@
 # TitanRest
 
-**GitHub Repository**: Link (google.com)
+**GitHub Repository**: [Link (Link)](https://github.com/nathanchamorro1/titanrest-final-1/)
 
 ## Developers
 
@@ -31,8 +31,6 @@ Offer detailed information about restroom attributes to improve user experience.
 
 ## Architecture and Design
 
-- The app leverages modern technologies and clean architectural principles:
-
 - Frontend: Built using SwiftUI for a seamless, interactive user experience.
 
 - Mapping Functionality: Displays a static campus map image with markers for each building and restroom location.
@@ -51,13 +49,13 @@ All source code and project files are available on GitHub: Link
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/username/titanrest
+git clone [https://github.com/username/titanrest](https://github.com/nathanchamorro1/titanrest-final-1/)
 ```
 2. Open the project in Xcode:
 ```
-open TitanRest.xcodeproj
+open titanrest-final-1.xcodeproj
 ```
-Ensure you have the latest version of Xcode and Swift installed.
+Make sure you have the latest version of Xcode and Swift installed (This was developed on Xcode 15).
 
 #### How To Run the Application
 
