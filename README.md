@@ -1,6 +1,6 @@
 # TitanRest
 
-**GitHub Repository**: [Link (Link)](https://github.com/nathanchamorro1/titanrest-final-1/)
+**GitHub Repository**: [Link](https://github.com/nathanchamorro1/titanrest-final-1/)
 
 ## Developers
 
@@ -43,7 +43,7 @@ Offer detailed information about restroom attributes to improve user experience.
 
 ### GitHub Location
 
-All source code and project files are available on GitHub: Link
+All source code and project files are available on GitHub: [Link](https://github.com/nathanchamorro1/titanrest-final-1/)
 
 #### Deployment Instructions
 
