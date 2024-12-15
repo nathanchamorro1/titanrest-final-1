@@ -53,7 +53,7 @@ git clone [https://github.com/username/titanrest](https://github.com/nathanchamo
 ```
 2. Open the project in Xcode:
 ```
-open titanrest-final-1.xcodeproj
+open titanrest-final.xcodeproj
 ```
 Make sure you have the latest version of Xcode and Swift installed (This was developed on Xcode 15).
 
